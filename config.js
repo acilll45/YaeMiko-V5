@@ -45,31 +45,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/oktaofcrill'
-global.sgh = 'https://github.com/ChataOfc'
+global.sig = 'https://www.instagram.com/acil.pedia'
+global.sgh = 'https://github.com/acilll45'
 global.sgc = 'https://chat.whatsapp.com/IRRkLJqImnuB6lCjGzyME0'
-global.sdc = " "
+global.sdc = "https://discord.gg/DZMV3mPC"
 global.snh = 'https://nhentai.net/g/365296/'
 //mwehehe:v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085731947500'
-global.povo = '-'
-global.pgopay = '085731947500'
-global.ppulsa = '085731947500'
-global.ppulsa2 = '085749543572'
-global.psaweria = 'https://saweria.co/oktakc'
+global.pdana = '088225488682'
+global.povo = '088225488682'
+global.pgopay = '088225488682'
+global.ppulsa = '088225488682'
+global.ppulsa2 = '08179578770'
+global.psaweria = 'https://saweria.co/Acil21'
 global.fetch = (await import('node-fetch'))
 /*============== NOMOR ==============*/
-global.nomorbot = '62881027834993'
-global.nomorown = '6285731947500'
-global.namebot = 'YaeMiko'
-global.nameown = 'Okta'
+global.nomorbot = '6288225488682'
+global.nomorown = '6283838757324'
+global.namebot = 'YaeMiko Bot'
+global.nameown = 'Acil𓆌'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285731947500', 'Okta🗿!', true]
+  ['6283838757324', 'Acil𓆌', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?

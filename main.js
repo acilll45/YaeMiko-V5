@@ -159,7 +159,7 @@ async function connectionUpdate(update) {
   }
   if (global.db.data == null) await loadDatabase()
   console.log(JSON.stringify(update, null, 4))
-  if (update.receivedPendingNotifications) conn.sendMessage(`62895749543572@s.whatsapp.net`, {text: 'Sukses Tersambung Ke Bot\n\nScript Ini Dibuat Oleh ChataOfc Team\nWhatsapp : wa.me/6285749543572\n\n*💌 • Name BOT:* ' + global.namebot + '\n*🎐 • Name OWNER:* ' + global.nameown + '\n*📞 • Nomor OWNER:* https://wa.me/' + global.nomorown })//made by Gama Naufal 
+  if (update.receivedPendingNotifications) conn.sendMessage(`62895749543572@s.whatsapp.net`, {text: 'Sukses Tersambung Ke Bot\n\nScript Ini Dibuat Oleh 𝗔𝗰𝗶𝗹𝗹 Team\nWhatsapp : wa.me/6283838757324\n\n*💌 • Name BOT:* ' + global.namebot + '\n*🎐 • Name OWNER:* ' + global.nameown + '\n*📞 • Nomor OWNER:* https://wa.me/' + global.nomorown })//made by Gama Naufal 
 }
 
 
