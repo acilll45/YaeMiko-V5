@@ -508,7 +508,7 @@ const listMessage = {
             fileLength: fsizedoc,
             pageCount: fpagedoc,
             caption: text,
-            footer: titlebot + '\n⚡ Supported By ChataOfc',
+            footer: titlebot + '\n⚡ Supported By Acill',
             templateButtons: [
                 {
                     urlButton: {
